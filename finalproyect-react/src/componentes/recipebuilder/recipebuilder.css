@@ -1,0 +1,28 @@
+.recipe-builder {
+    margin: 20px;
+  }
+  
+  .recipe-builder h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-builder ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipe-builder li {
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .recipe-builder input {
+    width: 50px;
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  

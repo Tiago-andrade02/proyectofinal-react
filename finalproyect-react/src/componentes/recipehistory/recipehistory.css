@@ -1,0 +1,19 @@
+.recipe-history {
+    margin: 20px;
+  }
+  
+  .recipe-history h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .recipe-history button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  

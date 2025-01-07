@@ -1,0 +1,14 @@
+.recipe-summary {
+    margin: 20px;
+  }
+  
+  .recipe-summary h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-summary p {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
